@@ -2,7 +2,7 @@
 
 Got tired of writing "Explain like I'm [X]" so just created this skill to replace writing so much everytime I need a breakdown of certain topics at varying levels of difficulty. 
 
-Personally, I have paired this with caveman (https://github.com/JuliusBrussee/caveman) to get the same result with lesser tokens.
+Personally, I have paired this with caveman (https://github.com/JuliusBrussee/caveman) to get the same result with lesser tokens. All examples below are caveman + eli combined to give this result.
 
 Explain any concept at any age or expertise level. Works as a Claude Code slash command.
 
