@@ -1,6 +1,6 @@
 # eli — Claude Code Skill
 
-Got tired of writing "Explain like I'm [X]" so just created this skill to replace wriing so much everytime I need a breakdown of certain topics at varying levels of difficulty. 
+Got tired of writing "Explain like I'm [X]" so just created this skill to replace writing so much everytime I need a breakdown of certain topics at varying levels of difficulty. 
 
 Explain any concept at any age or expertise level. Works as a Claude Code slash command.
 
